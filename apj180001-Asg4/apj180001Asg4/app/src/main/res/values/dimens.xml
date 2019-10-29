@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="leftRight_margin">16dp</dimen>
+    <dimen name="leftRight_padding">16dp</dimen>
+    <dimen name="topDown_margin">8dp</dimen>
+    <dimen name="topDown_padding">8dp</dimen>
+    <dimen name="secondsPicker_width">300dp</dimen>
+</resources>
